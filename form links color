@@ -1,0 +1,2 @@
+The link color in the form builder does not override the link color in the global settings. 
+If in the global settings under links color I have set one color but for a certain form I want to set another color, the last one does not override the color I have set in the global settings.
